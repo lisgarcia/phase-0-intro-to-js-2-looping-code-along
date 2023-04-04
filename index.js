@@ -1,4 +1,5 @@
 // Code your solutions in this file
+  
 let names=[`Guadalupe`, `Ollie`, `Aki`]
 
 function writeCards(names) {
@@ -8,3 +9,12 @@ function writeCards(names) {
     } return cards
 }
 
+
+function countDown() {
+let i = 10;
+while (i > -1) {
+  console.log(i);
+i--;
+
+}
+}
